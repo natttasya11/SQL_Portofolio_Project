@@ -48,7 +48,7 @@ Objective: Segment customers based on geographic, demographic, and behavioral da
 # 4. Predictive Models for Sales Forecasting and Customer Retention
 Objective: Build predictive models to anticipate future sales and improve customer retention strategies.
 
--Sales Forecasting
+- Sales Forecasting
   - Analyzes total purchase amounts based on seasons, gender, and purchased items to predict sales trends.
 
 - Customer Retention
